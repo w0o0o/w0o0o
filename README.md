@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @w0o0o
 - 👀 I’m interested in javascript, php and ReactJs
 - 🌱 I’m currently working with React Native.
-- 💼 I'm currently working as a developer at https://collectionpot.com
